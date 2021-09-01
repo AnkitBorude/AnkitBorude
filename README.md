@@ -1,8 +1,9 @@
-- 👋 Hi, <b>I’m @AnkitBorude</b>
-- 👀  Curious and Love to learn about Programming.
-- 🌱 I’m currently Studying computer science. <i>newbie</i>
-- 💞️ <b>Review my repos and Suggest for any imporovement. Happy to hear</b> 
-- 📫  reach me>>> ankitborude250@gmail.com
+- 👋 <h1>Hi, <b>I’m @AnkitBorude</b></h1>
+<ul>
+    <li>- 👀  Curious and Love to learn about Programming.</li>
+    <li>- 🌱 I’m currently Studying computer science. <i>newbie</i></li>
+    <li>- 💞️ <b>Review my repos and Suggest for any imporovement. Happy to hear</b> </li>
+    <li>- 📫  reach me>>> <a href=mailto:ankitborude250@gmail.com>Here..</a></li></ul>
 <b><br>
 while(me != death)<br>
 {
