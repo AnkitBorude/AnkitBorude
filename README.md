@@ -6,7 +6,7 @@
     <li>- 📫  reach me>>> <a href=ankitborude250@gmail.com>Here..</a></li>
 </ul>
 ###Tools & Technologies i am ready with
-<img scr="https://github.com/AnkitBorude/AnkitBorude/blob/main/R%20language.jpg" width="27px" height="27px" alt="R">
+<img scr="https://github.com/AnkitBorude/AnkitBorude/blob/main/R%20language.jpg?raw=true" width="27px" height="27px" alt="R">
 <!---
 AnkitBorude/AnkitBorude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
