@@ -7,9 +7,9 @@
 </ul>
 ###<b>Tools & Technologies i am ready with:-</b>
 <br>
-<img src="https://github.com/AnkitBorude/AnkitBorude/blob/main/R%20language.jpg?raw=true" width="55x" height="50px" alt="R"> >>
-<img src="https://github.com/AnkitBorude/AnkitBorude/blob/main/c.png?raw=true" width="55px" height="50px" alt="C"> >>
-<img src="https://github.com/AnkitBorude/AnkitBorude/blob/main/html%205.png?raw=true" width="55px" height="50px" alt="html5">
+<img align="left" src="https://github.com/AnkitBorude/AnkitBorude/blob/main/R%20language.jpg?raw=true" width="55x" height="50px" alt="R"> >>
+<img  align="left" src="https://github.com/AnkitBorude/AnkitBorude/blob/main/c.png?raw=true" width="55px" height="50px" alt="C"> >>
+<img  align="left" src="https://github.com/AnkitBorude/AnkitBorude/blob/main/html%205.png?raw=true" width="55px" height="50px" alt="html5">
 
 <!---
 AnkitBorude/AnkitBorude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
