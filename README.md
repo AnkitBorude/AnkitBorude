@@ -8,6 +8,8 @@
 ###<b>Tools & Technologies i am ready with:-</b>
 <br>
 <img src="https://github.com/AnkitBorude/AnkitBorude/blob/main/R%20language.jpg?raw=true" width="55x" height="50px" alt="R">
+<img src="https://github.com/AnkitBorude/AnkitBorude/blob/main/c.png?raw=true" width="55px" height="50px" alt="C">
+<img src="" width="55px" height="50px" alt="html5">
 
 <!---
 AnkitBorude/AnkitBorude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
