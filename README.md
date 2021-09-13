@@ -3,7 +3,7 @@
     <li>- 👀  Curious and Love to learn about Programming.</li>
     <li>- 🌱 I’m currently Studying computer science. <i>newbie</i></li>
     <li>- 💞️ <b>Review my repos and Suggest for any imporovement. Happy to hear</b> </li>
-    <li>- 📫  reach me>>> <a href=ankitborude250@gmail.com>Here..</a></li>
+    <li>- 📫  reach me>>> <a href=mailto:ankitborude250@gmail.com>Here..</a></li>
 </ul>
 ###<b>Tools & Technologies i am ready with:-</b>
 <br>
