@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankit-borude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-borude" height="30" width="40" /></a>
 </p>
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitborude&theme=dracula)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankitborude&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitborude&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
